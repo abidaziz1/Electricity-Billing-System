@@ -29,7 +29,6 @@ public class payment_bill extends JFrame implements ActionListener {
         back.addActionListener(this);
         j.add(back);
 
-
         setSize(800,600);
         setLocation(400,150);
         setVisible(true);
